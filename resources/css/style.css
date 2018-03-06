@@ -1,0 +1,16 @@
+
+html {
+	font-family: Verdana;
+	background-color: black;
+}
+
+.header {
+	color: White;
+	text-align: center;
+}
+
+a {
+	color: Aquamarine;
+	font-size: 15px;
+
+}
